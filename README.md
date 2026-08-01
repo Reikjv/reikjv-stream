@@ -73,7 +73,6 @@ Por padrão, o instalador configura:
 ```text
 Vídeos:          Vídeos\Reikjv Stream - Videos
 Prints:          Imagens\Reikjv Stream - Prints
-Logs principais: C:\ProgramData\Reikjv Stream - BRS Edition\Logs
 Backup dos logs: Documentos\Reikjv Stream - Logs
 ```
 
