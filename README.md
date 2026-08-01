@@ -8,16 +8,13 @@ O objetivo é entregar um ambiente pronto para uso: instalar, ativar, conectar a
 
 Baixe a versão mais recente na página oficial de releases:
 
-[Releases do Reikjv Stream - BRS Edition](https://github.com/Reikjv/obs-modificado/releases/latest)
+[Releases do Reikjv Stream - BRS Edition](https://github.com/Reikjv/reikjv-stream/releases)
 
 Arquivo recomendado:
 
 ```text
 Reikjv Stream - BRS Edition Installer vX.X.X.exe
 ```
-
-Também pode existir um pacote portátil `.zip`, destinado a testes ou manutenção. O instalador nativo é o modo recomendado de uso operacional.
-
 ## Requisitos
 
 - Windows 10 ou Windows 11, 64 bits.
