@@ -73,7 +73,7 @@ Por padrão, o instalador configura:
 ```text
 Vídeos:          Vídeos\Reikjv Stream - Videos
 Prints:          Imagens\Reikjv Stream - Prints
-Backup dos logs: Documentos\Reikjv Stream - Logs
+Logs:            Documentos\Reikjv Stream - Logs
 ```
 
 Vídeos e todos os tipos de print são organizados por legenda/atividade. Os logs operacionais são mantidos por semana e por categoria; UT, CP, Overlay e Eventos do Sistema são separados também por dia, por exemplo:
